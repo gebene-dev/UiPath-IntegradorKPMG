@@ -1,7 +1,7 @@
 {
   "name": "Integrador",
   "description": "Integrador para KPMG",
-  "main": "Main.xaml",
+  "main": "Integrador.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -45,8 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "a285f680-58f2-478b-9101-5fcb564218be",
+      "filePath": "Integrador.xaml",
+      "uniqueId": "7e69a558-6298-4868-9720-f60a80bad796",
       "input": [],
       "output": []
     }
